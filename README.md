@@ -4,7 +4,7 @@ DocsAdmin is  a platform for managing medical offices across the country. <br>
 **Functionalities:**<br>
  1- Patients appointments .<br>
  2- Records of all the necessary informations that the doctor gather during the patient's physical examination .<br>
- 3- Recoding the patients files with all the details .br>
+ 3- Recoding the patients files with all the details .<br>
  4- Access to the drugs available in the country to transcribe the right available drugs .<br>
 ## 2. Getting started : 
  ### Cloning the project : 
